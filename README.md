@@ -7,3 +7,7 @@
 
 # Web-Stopwatch: 
 ![image](https://github.com/pikuso/Web-sites/assets/87444866/7cb0cdfb-f15f-4b6e-bdcb-29dac73072dc)
+
+# Web-Calculator: 
+![image](https://github.com/pikuso/Web-sites/assets/87444866/f92ad47e-8aa7-49e0-a740-b58202e6897d)
+
